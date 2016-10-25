@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/check_select.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/check_select.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/pay_wx.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pay_wx.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/check_normal.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/check_normal.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/load_succeed.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/load_succeed.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/refresh_failed.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/refresh_failed.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/back.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/back.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/refresh_succeed.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/refresh_succeed.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/lc_more.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lc_more.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/pay_zfb.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pay_zfb.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/night_loading_1.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/night_loading_1.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/pull_icon_big.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pull_icon_big.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/refreshing.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/refreshing.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/load_failed.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/load_failed.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/pullup_icon_big.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pullup_icon_big.png"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/loading.png",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/drawable-hdpi-v4/loading.png"
+    }
+]

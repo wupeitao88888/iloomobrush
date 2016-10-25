@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/load_more.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/load_more.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/refresh_head.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/refresh_head.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/pay_external.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/pay_external.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/lc_layout_userregister.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/lc_layout_userregister.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/layout_activitytitle.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/layout_activitytitle.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/progress_dialog.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/startpic_layout.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/startpic_layout.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/layout_slideshow.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/layout_slideshow.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/lc_layout_title.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/lc_layout_title.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/androidTest/debug/layout/maintabs.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/bundles/debug/res/layout/maintabs.xml"
+    }
+]

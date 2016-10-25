@@ -1,0 +1,191 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+    
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="订单编号:"
+                    android:textColor="#777777"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/product_subject"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="测试的商品"
+                    android:textColor="@drawable/title_bar"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="商品描述:"
+                    android:textColor="#777777"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/info_pay"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="该测试商品的详细描述"
+                    android:textColor="#333333"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="订单价格:"
+                    android:textColor="#777777"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/product_price"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="元"
+                    android:textColor="@drawable/title_bar"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/zfb_re"
+                android:layout_width="fill_parent"
+                android:layout_height="48dp" >
+
+                <ImageView
+                    android:id="@+id/pay_zfb_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/pay_zfb" />
+
+                <TextView
+                    android:id="@+id/pay_zfb_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/pay_zfb_icon"
+                    android:text="支付宝支付"
+                    android:textColor="#777777"
+                    tools:ignore="HardcodedText" />
+
+                <CheckBox
+                    android:id="@+id/zfb_select"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    style="@style/CustomCheckboxTheme"
+                    android:layout_centerVertical="true" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/gray"
+                 />
+
+            <RelativeLayout
+                android:id="@+id/wx_rl"
+                android:layout_width="fill_parent"
+                android:layout_height="48dp" >
+
+                <ImageView
+                    android:id="@+id/wx_zfb_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/pay_wx" />
+
+                <TextView
+                    android:id="@+id/wx_zfb_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/wx_zfb_icon"
+                    android:text="微信支付"
+                    android:textColor="#777777"
+                    tools:ignore="HardcodedText" />
+
+                <CheckBox
+                    android:id="@+id/wx_select"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/CustomCheckboxTheme"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/pay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:onClick="pay"
+            android:background="@drawable/button_normal_l"
+            android:text="支付"
+            android:textColor="@color/white"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+</ScrollView>

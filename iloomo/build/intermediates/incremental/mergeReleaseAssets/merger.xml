@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/assets"/><source path="/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/release/assets"/></dataSet></merger>

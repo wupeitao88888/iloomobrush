@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">增量小宇宙</string>
+    <string name="app_description">修改设备唯一号信息阻止跟踪用户</string>
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/load_more.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/load_more.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/progress_dialog.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/layout_slideshow.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/layout_slideshow.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/layout_activitytitle.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/layout_activitytitle.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/pay_external.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/pay_external.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/startpic_layout.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/startpic_layout.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/refresh_head.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/refresh_head.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/maintabs.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/maintabs.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/lc_layout_userregister.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/lc_layout_userregister.xml"
+    },
+    {
+        "merged": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/build/intermediates/res/merged/release/layout/lc_layout_title.xml",
+        "source": "/Users/wupeitao/Desktop/pickerview/iloomobrush/iloomo/src/main/res/layout/lc_layout_title.xml"
+    }
+]
